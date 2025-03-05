@@ -19,10 +19,11 @@ Images can be downloaded using the image source entries and/or URLs provided in 
 Please cite our ICLR 2024 paper if you use the ADOPD dataset in your work:
 ```bibtex
 @inproceedings{
-    gu2024adopd,
-    title={{AD}o{PD}: A Large-Scale Document Page Decomposition Dataset},
-    author={Jiuxiang Gu and Xiangxi Shi and Jason Kuen and Lu Qi and Ruiyi Zhang and Anqi Liu and Ani Nenkova and Tong Sun},
-    booktitle={The Twelfth International Conference on Learning Representations},
-    year={2024},
-    url={https://openreview.net/forum?id=x1ptaXpOYa}
+gu2024adopd,
+title={{ADOPD}: A Large-Scale Document Page Decomposition Dataset},
+author={Jiuxiang Gu and Xiangxi Shi and Jason Kuen and Lu Qi and Ruiyi Zhang and Anqi Liu and Ani Nenkova and Tong Sun},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=x1ptaXpOYa}
 }
+```
